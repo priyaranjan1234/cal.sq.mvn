@@ -48,12 +48,12 @@ body, html {
 .banner {
 	font-size: 25px;
 	color: BLACK;
-	background-color: #b0e0e6;
+	background-color: #ff0000;
 	text-align: center;
 }
-#SimpleCalculator {background-color: orange;}
-#AgeCalculator {background-color: orange;}
-#EMICalculator {background-color: orange;}
+#SimpleCalculator {background-color: red;}
+#AgeCalculator {background-color: red;}
+#EMICalculator {background-color: red;}
 
 
 
